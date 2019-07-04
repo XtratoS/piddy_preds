@@ -1,0 +1,26 @@
+{
+  "name": "piddy_preds",
+  "version": "0.0.0",
+  "description": "A prediction bot for RLCS games",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XtratoS/piddy_preds.git"
+  },
+  "keywords": [
+    "predictions",
+    "piddy"
+  ],
+  "author": "XtratoS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XtratoS/piddy_preds/issues"
+  },
+  "homepage": "https://github.com/XtratoS/piddy_preds#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
